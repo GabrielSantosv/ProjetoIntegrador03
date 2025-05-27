@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerenciamento de Riscos</string>
+    <string name="risk_map">Mapa de Riscos</string>
+    <string name="report_generation">Geração de Relatórios</string>
+    <string name="generate_report">Gerar Relatório</string>
+    <string name="open_map">Abrir Mapa</string>
+    <string name="view_risks_map">Visualize as áreas de risco no mapa</string>
+    <string name="generate_risk_report">Gere relatórios detalhados sobre os riscos</string>
+</resources> 

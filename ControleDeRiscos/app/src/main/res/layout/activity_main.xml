@@ -1,0 +1,101 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Título principal -->
+        <TextView
+            android:id="@+id/mainTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Registrar Risco"
+            android:textSize="26sp"
+            android:textColor="#B00020"
+            android:fontFamily="@font/montserrat_bold"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Título para o campo de título -->
+        <TextView
+            android:id="@+id/riskTitleLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Título"
+            android:textSize="16sp"
+            android:textColor="#444444"
+            android:fontFamily="@font/montserrat_medium"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Campo de entrada para o título do risco -->
+        <EditText
+            android:id="@+id/riskTitleEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_background"
+            android:hint="Ex: Fiação exposta"
+            android:padding="12dp"
+            android:fontFamily="@font/montserrat_regular"
+            android:textColor="#000000"
+            android:textColorHint="#888888"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Título para o campo de descrição -->
+        <TextView
+            android:id="@+id/riskDescriptionLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Descrição"
+            android:textSize="16sp"
+            android:textColor="#444444"
+            android:fontFamily="@font/montserrat_medium"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- Campo de entrada para a descrição do risco -->
+        <EditText
+            android:id="@+id/riskDescriptionEditText"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:background="@drawable/edittext_background"
+            android:hint="Detalhe o risco identificado..."
+            android:padding="12dp"
+            android:gravity="top|start"
+            android:fontFamily="@font/montserrat_regular"
+            android:textColor="#000000"
+            android:textColorHint="#888888"
+            android:layout_marginBottom="24dp"/>
+
+        <!-- Botão para registrar o risco -->
+        <Button
+            android:id="@+id/registerRiskButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registrar Risco"
+            android:backgroundTint="#B00020"
+            android:textColor="#FFFFFF"
+            android:fontFamily="@font/montserrat_semibold"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Botão para tirar foto -->
+        <Button
+            android:id="@+id/takePhotoButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tirar Foto do Risco"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- ImageView para mostrar a imagem capturada -->
+        <ImageView
+            android:id="@+id/riskImageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="8dp" />
+
+    </LinearLayout>
+</ScrollView>
