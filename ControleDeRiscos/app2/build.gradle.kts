@@ -62,8 +62,13 @@ dependencies {
     implementation("com.google.android.gms:play-services-maps:18.2.0")
     implementation("com.google.android.gms:play-services-location:21.0.1")
 
-    // PDF Generation
-    implementation("com.itextpdf:itext7-core:7.2.5")
+    // Charts and Dashboard
+    implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
+    implementation("com.github.AnyChart:AnyChart-Android:1.1.5")
+
+    // RecyclerView for lists
+    implementation("androidx.recyclerview:recyclerview:1.3.2")
+    implementation("androidx.cardview:cardview:1.0.0")
 
     // Testing libraries
     testImplementation(libs.junit)
