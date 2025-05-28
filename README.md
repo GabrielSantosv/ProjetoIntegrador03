@@ -4,7 +4,7 @@ Este projeto tem como objetivo desenvolver um sistema de monitoramento de riscos
 
 ## Tecnologias Utilizadas
 - **Kotlin** para o aplicativo móvel de registro de riscos
-- **Flutter** para o aplicativo de gerenciamento de riscos
+- **Kotlin** para o aplicativo de gerenciamento de riscos
 
 ---
 
@@ -29,7 +29,7 @@ O segundo aplicativo será utilizado para visualizar e gerenciar os riscos repor
 - **Mapa de Riscos**, destacando as principais áreas de risco com base na geolocalização
 - **Geração de relatórios** detalhados sobre os riscos identificados
 
-**Tecnologia utilizada:** Flutter
+**Tecnologia utilizada:** Kotlin
 
 ---
 
