@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\font_montserrat_semibold.ttf.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\font\\montserrat_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\layout_activity_report_generation.xml.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\layout\\activity_report_generation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\layout_activity_risk_map.xml.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\layout\\activity_risk_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-release-52:/layout_activity_report_generation.xml.flat",
+        "source": "com.example.projetointegrador3.app2-main-53:/layout/activity_report_generation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\font_montserrat_medium.ttf.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\font\\montserrat_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\layout_item_recent_alert.xml.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\layout\\item_recent_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-release-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Darkz\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-53:\\layout\\activity_main.xml"
+    }
+]

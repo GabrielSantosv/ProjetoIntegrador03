@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.projetointegrador3.app2-mergeDebugResources-49:/layout/activity_dashboard.xml",
+        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-mergeDebugResources-49:/layout/activity_risk_map.xml",
+        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_risk_map.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-mergeDebugResources-49:/layout/item_recent_alert.xml",
+        "source": "com.example.projetointegrador3.app2-main-52:/layout/item_recent_alert.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-mergeDebugResources-49:/layout/activity_report_generation.xml",
+        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_report_generation.xml"
+    }
+]

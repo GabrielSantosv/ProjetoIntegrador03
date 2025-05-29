@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://projetointegrador3-38bf3-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">267257024639</string>
+    <string name="google_api_key" translatable="false">AIzaSyBfApZIOl2dqq7voX6F6aSwiEC624tSrwY</string>
+    <string name="google_app_id" translatable="false">1:267257024639:android:eb2be2481e17450d8f6f4a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBfApZIOl2dqq7voX6F6aSwiEC624tSrwY</string>
+    <string name="google_storage_bucket" translatable="false">projetointegrador3-38bf3.firebasestorage.app</string>
+    <string name="project_id" translatable="false">projetointegrador3-38bf3</string>
+</resources>

@@ -44,11 +44,11 @@ android {
 
 dependencies {
     // Core libraries
-    implementation(libs.androidx.core.ktx)
-    implementation(libs.androidx.appcompat)
-    implementation(libs.material)
-    implementation(libs.androidx.activity)
-    implementation(libs.androidx.constraintlayout)
+    implementation("androidx.core:core-ktx:1.12.0")
+    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("com.google.android.material:material:1.11.0")
+    implementation("androidx.activity:activity-ktx:1.8.2")
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
     // Firebase libraries
     implementation(platform(libs.firebase.bom))
@@ -62,11 +62,11 @@ dependencies {
     implementation("com.google.android.gms:play-services-maps:18.2.0")
     implementation("com.google.android.gms:play-services-location:21.0.1")
 
-    // Charts and Dashboard
+    // Charts and Graphs
     implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
-    implementation("com.github.AnyChart:AnyChart-Android:1.1.5")
+    implementation("com.github.AnyChart:AnyChart-Android:1.1.2")
 
-    // RecyclerView for lists
+    // RecyclerView and CardView
     implementation("androidx.recyclerview:recyclerview:1.3.2")
     implementation("androidx.cardview:cardview:1.0.0")
 
@@ -76,4 +76,4 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 }
 
-apply(plugin = "com.google.gms.google-services") 
+apply(plugin = "com.google.gms.google-services")

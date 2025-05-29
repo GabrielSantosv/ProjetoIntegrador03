@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#B00020</color>
+    <color name="background">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="hint_text">#888888</color>
+    <color name="primary">#B00020</color>
+    <color name="primary_dark">#8B0000</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#444444</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Gerenciamento de Riscos</string>
+    <string name="firebase_database_url" translatable="false">https://projetointegrador3-38bf3-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">267257024639</string>
+    <string name="generate_report">Gerar Relatório</string>
+    <string name="generate_risk_report">Gere relatórios detalhados sobre os riscos</string>
+    <string name="google_api_key" translatable="false">AIzaSyBfApZIOl2dqq7voX6F6aSwiEC624tSrwY</string>
+    <string name="google_app_id" translatable="false">1:267257024639:android:eb2be2481e17450d8f6f4a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBfApZIOl2dqq7voX6F6aSwiEC624tSrwY</string>
+    <string name="google_storage_bucket" translatable="false">projetointegrador3-38bf3.firebasestorage.app</string>
+    <string name="open_map">Abrir Mapa</string>
+    <string name="project_id" translatable="false">projetointegrador3-38bf3</string>
+    <string name="report_generation">Geração de Relatórios</string>
+    <string name="risk_map">Mapa de Riscos</string>
+    <string name="view_risks_map">Visualize as áreas de risco no mapa</string>
+    <style name="Base.Theme.ProjetoIntegrador3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+    </style>
+    <style name="Theme.ProjetoIntegrador3" parent="Base.Theme.ProjetoIntegrador3"/>
+</resources>

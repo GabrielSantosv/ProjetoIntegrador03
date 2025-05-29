@@ -1,0 +1,3 @@
+C:\Users\Darkz\Desktop\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\java\com\example\projetointegrador3\app2\MainActivity.kt
+C:\Users\Darkz\Desktop\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\java\com\example\projetointegrador3\app2\RiskMapActivity.kt
+C:\Users\Darkz\Desktop\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\java\com\example\projetointegrador3\app2\ReportGenerationActivity.kt
