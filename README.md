@@ -128,6 +128,4 @@ Sinta-se à vontade para contribuir com o projeto! Para isso:
 
 ---
 
-## 📱 Screenshots
-
 
