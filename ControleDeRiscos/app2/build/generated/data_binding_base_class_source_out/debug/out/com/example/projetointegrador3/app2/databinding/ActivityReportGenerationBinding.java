@@ -4,7 +4,6 @@ package com.example.projetointegrador3.app2.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.ScrollView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -12,6 +11,8 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.projetointegrador3.app2.R;
+import com.github.mikephil.charting.charts.BarChart;
+import com.github.mikephil.charting.charts.PieChart;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -21,15 +22,19 @@ public final class ActivityReportGenerationBinding implements ViewBinding {
   private final ScrollView rootView;
 
   @NonNull
-  public final Button btnGenerateReport;
+  public final BarChart barChart;
+
+  @NonNull
+  public final PieChart pieChart;
 
   @NonNull
   public final TextView tvTitle;
 
-  private ActivityReportGenerationBinding(@NonNull ScrollView rootView,
-      @NonNull Button btnGenerateReport, @NonNull TextView tvTitle) {
+  private ActivityReportGenerationBinding(@NonNull ScrollView rootView, @NonNull BarChart barChart,
+      @NonNull PieChart pieChart, @NonNull TextView tvTitle) {
     this.rootView = rootView;
-    this.btnGenerateReport = btnGenerateReport;
+    this.barChart = barChart;
+    this.pieChart = pieChart;
     this.tvTitle = tvTitle;
   }
 
@@ -60,9 +65,15 @@ public final class ActivityReportGenerationBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnGenerateReport;
-      Button btnGenerateReport = ViewBindings.findChildViewById(rootView, id);
-      if (btnGenerateReport == null) {
+      id = R.id.barChart;
+      BarChart barChart = ViewBindings.findChildViewById(rootView, id);
+      if (barChart == null) {
+        break missingId;
+      }
+
+      id = R.id.pieChart;
+      PieChart pieChart = ViewBindings.findChildViewById(rootView, id);
+      if (pieChart == null) {
         break missingId;
       }
 
@@ -72,7 +83,8 @@ public final class ActivityReportGenerationBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityReportGenerationBinding((ScrollView) rootView, btnGenerateReport, tvTitle);
+      return new ActivityReportGenerationBinding((ScrollView) rootView, barChart, pieChart,
+          tvTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

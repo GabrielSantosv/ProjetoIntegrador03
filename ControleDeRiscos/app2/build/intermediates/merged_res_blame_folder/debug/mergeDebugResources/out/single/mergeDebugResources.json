@@ -1,38 +1,38 @@
 [
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/layout_activity_main.xml.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_main.xml"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/layout_activity_risk_map.xml.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/layout/activity_risk_map.xml"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/layout_activity_report_generation.xml.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_report_generation.xml"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/layout_activity_report_generation.xml.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/layout/activity_report_generation.xml"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/font_montserrat_semibold.ttf.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/font/montserrat_semibold.ttf"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/font_montserrat_regular.ttf.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/font/montserrat_regular.ttf"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/layout_activity_dashboard.xml.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_dashboard.xml"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/layout_item_recent_alert.xml.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/layout/item_recent_alert.xml"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/layout_activity_risk_map.xml.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/layout/activity_risk_map.xml"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/font_montserrat_semibold.ttf.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/font/montserrat_semibold.ttf"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/font_montserrat_bold.ttf.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/font/montserrat_bold.ttf"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/font_montserrat_bold.ttf.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/font/montserrat_bold.ttf"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/font_montserrat_medium.ttf.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/font/montserrat_medium.ttf"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/font_montserrat_medium.ttf.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/font/montserrat_medium.ttf"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/layout_item_recent_alert.xml.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/layout/item_recent_alert.xml"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/layout_activity_main.xml.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.projetointegrador3.app2-debug-50:/font_montserrat_regular.ttf.flat",
-        "source": "com.example.projetointegrador3.app2-main-52:/font/montserrat_regular.ttf"
+        "merged": "com.example.projetointegrador3.app2-debug-55:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.projetointegrador3.app2-main-57:/layout/activity_dashboard.xml"
     }
 ]
