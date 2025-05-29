@@ -130,18 +130,4 @@ Sinta-se à vontade para contribuir com o projeto! Para isso:
 
 ## 📱 Screenshots
 
-### APP2 - Dashboard
-- Gráfico de Pizza: Distribuição por tipo de risco
-- Gráfico de Barras: Riscos por área
-- Lista de Alertas Recentes
-- Mapa de Riscos
 
----
-
-## 🤝 Suporte
-
-Se tiver dúvidas ou sugestões, entre em contato! 🚀
-
-- Abra uma **issue** no GitHub
-- Envie um **email** para: seu-email@exemplo.com
-- Entre em contato via **LinkedIn**: [seu-linkedin]
